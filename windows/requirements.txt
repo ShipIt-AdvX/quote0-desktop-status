@@ -1,0 +1,8 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pillow>=10.0.0
+psutil>=6.0.0
+mcstatus>=12.0.0
+pyserial>=3.5
+python-multipart>=0.0.9
+esptool>=4.8.0
